@@ -1,11 +1,3 @@
-/* assignment 4 
-question 1
-ke ding
-CSC 455
-Aastha Gupta
-Due Tuesday, November 7th
-*/
-
 DROP TABLE person CASCADE CONSTRAINTS;
 DROP TABLE contact_list CASCADE CONSTRAINTS;
 DROP TABLE message CASCADE CONSTRAINTS;
